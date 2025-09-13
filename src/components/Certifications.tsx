@@ -5,7 +5,7 @@ const Certifications = () => {
     {
   title: 'Google Associate Cloud Engineer',
   description: 'Certification from Google Cloud validating skills in deploying, monitoring, and managing cloud solutions.',
-  image: '/Certification_images/ACE.jpeg'
+  image: '/ACE.jpeg'
 },
 {
   title: 'NDG Linux Essentials',
