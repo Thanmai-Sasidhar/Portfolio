@@ -33,7 +33,7 @@ const About = () => {
           <div className="flex justify-center">
             <div className="w-80 h-80 overflow-hidden rounded-full shadow-lg border-r-4">
               <img
-                src="Me.jpeg"
+                src="/Me.jpeg"
                 alt="About Me"
                 className="w-full h-full object-cover"
               />
