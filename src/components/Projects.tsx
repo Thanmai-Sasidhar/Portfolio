@@ -6,7 +6,7 @@ const Projects = () => {
     {
       title: 'Suscidial-Tendency-Detection',
       description: 'An AI-powered system that detects suicidal tendencies from text using NLP and machine learning to enable early intervention',
-      image: 'Project_images/Sucide.jpeg',
+      image: '/Sucide.jpeg',
       tags: ['Python', 'NLP', 'Machine Learning', 'Deep Learning', 'TensorFlow'],
       github: 'https://github.com/Thanmai-Sasidhar/Suscidial-Tendency-Detection',
       demo: '#'
@@ -14,14 +14,14 @@ const Projects = () => {
     {
       title: 'Loan Default Prediction System',
       description: 'A machine learning project that predicts the likelihood of loan default using historical data and various algorithms.',
-      image: 'Project_images/LOAN DEFAULT.jpeg',
+      image: '/LOAN DEFAULT.jpeg',
       tags: ['Python', 'Django', 'Pandas', 'Scikit-learn', 'SQLite'],
       github: 'https://github.com/Thanmai-Sasidhar/Loan_Default_Prediction'
     },
     {
       title: 'Resume_Builder',
       description: 'An interactive resume builder application that allows users to create, edit, and manage their resumes with ease.',
-      image: 'Project_images/Resume.jpeg',
+      image: '/Resume.jpeg',
       tags: ['Python', 'React', 'JavaScript', 'HTML', 'CSS'],
       github: 'https://github.com/Thanmai-Sasidhar/Resume_Builder',
       demo: 'https://thanmai-sasidhar.github.io/Resume_Builder/'
@@ -29,7 +29,7 @@ const Projects = () => {
     {
       title: 'Interactive Hand Gestures Recognition',
       description: 'A cutting-edge application that utilizes computer vision and machine learning to recognize and interpret hand gestures in real-time.',
-      image: 'Project_images/HAND.png',
+      image: '/HAND.png',
       tags: ['OpenCV', 'Tensorflow', 'MediaPipe', 'Python', 'React'],
       github: 'https://github.com/Thanmai-Sasidhar/Interactive-Hand-Gesture-Drawing',
       demo: 'https://thanmai-sasidhar.github.io/Interactive-Hand-Gesture-Drawing/'
@@ -37,7 +37,7 @@ const Projects = () => {
     {
   title: 'Enhancing Bike Safety Using ML',
   description: 'A machine learning project designed to improve bike safety by analyzing riding patterns, sensor data, and real-time conditions to predict and prevent accidents.',
-  image: 'Project_images/Helmet.jpeg',
+  image: '/Helmet.jpeg',
   tags: ['Python', 'Machine Learning', 'Computer Vision', 'IoT', 'Safety Analytics'],
   github: 'https://github.com/Thanmai-Sasidhar/Bike-Safety-ML',
   demo: 'https://thanmai-sasidhar.github.io/Bike-Safety-ML/'
