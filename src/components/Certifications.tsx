@@ -10,27 +10,27 @@ const Certifications = () => {
 {
   title: 'NDG Linux Essentials',
   description: 'Foundational knowledge of Linux operating systems from Cisco Networking Academy.',
-  image: '/Certification_images/Linux.jpeg'
+  image: '/Linux.jpeg'
 },
 {
   title: 'CCNA: Introduction to Networks',
   description: 'Cisco Networking Academy certification covering network fundamentals, protocols, and infrastructure.',
-  image: '/Certification_images/CCNA.jpeg'
+  image: '/CCNA.jpeg'
 },
 {
   title: 'Ethical Hacking',
   description: 'Certification focusing on ethical hacking skills and techniques.',
-  image: '/Certification_images/Ethical Hacking.jpeg'
+  image: '/Ethical Hacking.jpeg'
 },
 {
   title: 'Privaccy and Security in Online Social Media',
   description: 'Certification focusing on privacy and security issues in social media platforms.',
-  image: '/Certification_images/Privacy and Security.jpeg'
+  image: '/Privacy and Security.jpeg'
 },
 {
   title: 'Social Networks',
   description: 'NPTEL certification from IIT Bombay exploring the analysis of social networks and graph structures.',
-  image: '/Certification_images/Social Networks.jpeg'
+  image: '/Social Networks.jpeg'
 }
 
   ];
